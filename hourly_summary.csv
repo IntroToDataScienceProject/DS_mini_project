@@ -1,0 +1,1188 @@
+Station,Hour,departures,returns
+Apollonkatu,0.0,107.0,158.0
+Apollonkatu,1.0,53.0,105.0
+Apollonkatu,2.0,23.0,41.0
+Apollonkatu,3.0,19.0,48.0
+Apollonkatu,4.0,12.0,34.0
+Apollonkatu,5.0,76.0,14.0
+Apollonkatu,6.0,155.0,21.0
+Apollonkatu,7.0,530.0,165.0
+Apollonkatu,8.0,831.0,372.0
+Apollonkatu,9.0,516.0,337.0
+Apollonkatu,10.0,361.0,229.0
+Apollonkatu,11.0,390.0,262.0
+Apollonkatu,12.0,439.0,375.0
+Apollonkatu,13.0,437.0,408.0
+Apollonkatu,14.0,453.0,547.0
+Apollonkatu,15.0,629.0,727.0
+Apollonkatu,16.0,703.0,974.0
+Apollonkatu,17.0,724.0,868.0
+Apollonkatu,18.0,612.0,803.0
+Apollonkatu,19.0,592.0,687.0
+Apollonkatu,20.0,452.0,571.0
+Apollonkatu,21.0,359.0,494.0
+Apollonkatu,22.0,220.0,335.0
+Apollonkatu,23.0,152.0,223.0
+Baana,0.0,112.0,145.0
+Baana,1.0,57.0,129.0
+Baana,2.0,29.0,94.0
+Baana,3.0,22.0,74.0
+Baana,4.0,27.0,42.0
+Baana,5.0,51.0,22.0
+Baana,6.0,206.0,221.0
+Baana,7.0,502.0,1159.0
+Baana,8.0,869.0,1876.0
+Baana,9.0,591.0,1033.0
+Baana,10.0,396.0,451.0
+Baana,11.0,633.0,444.0
+Baana,12.0,688.0,559.0
+Baana,13.0,687.0,617.0
+Baana,14.0,767.0,614.0
+Baana,15.0,1406.0,713.0
+Baana,16.0,1735.0,1114.0
+Baana,17.0,1293.0,1038.0
+Baana,18.0,954.0,919.0
+Baana,19.0,630.0,796.0
+Baana,20.0,494.0,734.0
+Baana,21.0,433.0,561.0
+Baana,22.0,252.0,344.0
+Baana,23.0,152.0,243.0
+Brahen kenttä,0.0,160.0,231.0
+Brahen kenttä,1.0,154.0,130.0
+Brahen kenttä,2.0,96.0,100.0
+Brahen kenttä,3.0,48.0,97.0
+Brahen kenttä,4.0,46.0,89.0
+Brahen kenttä,5.0,57.0,73.0
+Brahen kenttä,6.0,89.0,64.0
+Brahen kenttä,7.0,340.0,113.0
+Brahen kenttä,8.0,609.0,336.0
+Brahen kenttä,9.0,444.0,196.0
+Brahen kenttä,10.0,328.0,133.0
+Brahen kenttä,11.0,380.0,172.0
+Brahen kenttä,12.0,425.0,232.0
+Brahen kenttä,13.0,474.0,246.0
+Brahen kenttä,14.0,457.0,328.0
+Brahen kenttä,15.0,526.0,360.0
+Brahen kenttä,16.0,653.0,548.0
+Brahen kenttä,17.0,708.0,671.0
+Brahen kenttä,18.0,544.0,641.0
+Brahen kenttä,19.0,529.0,556.0
+Brahen kenttä,20.0,392.0,574.0
+Brahen kenttä,21.0,366.0,517.0
+Brahen kenttä,22.0,276.0,368.0
+Brahen kenttä,23.0,228.0,285.0
+Designmuseo,0.0,71.0,130.0
+Designmuseo,1.0,41.0,86.0
+Designmuseo,2.0,38.0,56.0
+Designmuseo,3.0,42.0,40.0
+Designmuseo,4.0,41.0,25.0
+Designmuseo,5.0,31.0,19.0
+Designmuseo,6.0,100.0,77.0
+Designmuseo,7.0,245.0,193.0
+Designmuseo,8.0,559.0,401.0
+Designmuseo,9.0,647.0,518.0
+Designmuseo,10.0,372.0,222.0
+Designmuseo,11.0,265.0,271.0
+Designmuseo,12.0,347.0,301.0
+Designmuseo,13.0,361.0,287.0
+Designmuseo,14.0,368.0,289.0
+Designmuseo,15.0,499.0,383.0
+Designmuseo,16.0,586.0,418.0
+Designmuseo,17.0,564.0,497.0
+Designmuseo,18.0,452.0,409.0
+Designmuseo,19.0,268.0,343.0
+Designmuseo,20.0,300.0,341.0
+Designmuseo,21.0,252.0,278.0
+Designmuseo,22.0,155.0,231.0
+Designmuseo,23.0,111.0,144.0
+Eerikinkatu,0.0,120.0,66.0
+Eerikinkatu,1.0,81.0,45.0
+Eerikinkatu,2.0,59.0,38.0
+Eerikinkatu,3.0,54.0,15.0
+Eerikinkatu,4.0,21.0,18.0
+Eerikinkatu,5.0,11.0,11.0
+Eerikinkatu,6.0,27.0,19.0
+Eerikinkatu,7.0,74.0,163.0
+Eerikinkatu,8.0,262.0,462.0
+Eerikinkatu,9.0,218.0,385.0
+Eerikinkatu,10.0,222.0,183.0
+Eerikinkatu,11.0,220.0,230.0
+Eerikinkatu,12.0,309.0,301.0
+Eerikinkatu,13.0,301.0,255.0
+Eerikinkatu,14.0,311.0,251.0
+Eerikinkatu,15.0,389.0,284.0
+Eerikinkatu,16.0,572.0,436.0
+Eerikinkatu,17.0,511.0,402.0
+Eerikinkatu,18.0,420.0,287.0
+Eerikinkatu,19.0,341.0,221.0
+Eerikinkatu,20.0,247.0,201.0
+Eerikinkatu,21.0,235.0,204.0
+Eerikinkatu,22.0,174.0,172.0
+Eerikinkatu,23.0,138.0,122.0
+Eiran Sairaala,0.0,15.0,42.0
+Eiran Sairaala,1.0,9.0,22.0
+Eiran Sairaala,2.0,4.0,33.0
+Eiran Sairaala,3.0,3.0,18.0
+Eiran Sairaala,4.0,7.0,24.0
+Eiran Sairaala,5.0,5.0,1.0
+Eiran Sairaala,6.0,47.0,4.0
+Eiran Sairaala,7.0,97.0,28.0
+Eiran Sairaala,8.0,237.0,44.0
+Eiran Sairaala,9.0,126.0,50.0
+Eiran Sairaala,10.0,95.0,41.0
+Eiran Sairaala,11.0,109.0,60.0
+Eiran Sairaala,12.0,117.0,92.0
+Eiran Sairaala,13.0,112.0,83.0
+Eiran Sairaala,14.0,137.0,110.0
+Eiran Sairaala,15.0,138.0,137.0
+Eiran Sairaala,16.0,142.0,170.0
+Eiran Sairaala,17.0,178.0,242.0
+Eiran Sairaala,18.0,153.0,174.0
+Eiran Sairaala,19.0,135.0,171.0
+Eiran Sairaala,20.0,117.0,150.0
+Eiran Sairaala,21.0,79.0,123.0
+Eiran Sairaala,22.0,65.0,94.0
+Eiran Sairaala,23.0,24.0,44.0
+Eläinmuseo,0.0,70.0,105.0
+Eläinmuseo,1.0,53.0,66.0
+Eläinmuseo,2.0,35.0,54.0
+Eläinmuseo,3.0,33.0,45.0
+Eläinmuseo,4.0,18.0,34.0
+Eläinmuseo,5.0,17.0,19.0
+Eläinmuseo,6.0,82.0,35.0
+Eläinmuseo,7.0,235.0,109.0
+Eläinmuseo,8.0,477.0,196.0
+Eläinmuseo,9.0,367.0,206.0
+Eläinmuseo,10.0,253.0,148.0
+Eläinmuseo,11.0,297.0,212.0
+Eläinmuseo,12.0,342.0,238.0
+Eläinmuseo,13.0,298.0,247.0
+Eläinmuseo,14.0,319.0,266.0
+Eläinmuseo,15.0,413.0,328.0
+Eläinmuseo,16.0,443.0,376.0
+Eläinmuseo,17.0,408.0,413.0
+Eläinmuseo,18.0,356.0,325.0
+Eläinmuseo,19.0,295.0,321.0
+Eläinmuseo,20.0,258.0,267.0
+Eläinmuseo,21.0,187.0,211.0
+Eläinmuseo,22.0,120.0,172.0
+Eläinmuseo,23.0,119.0,135.0
+Erottaja,0.0,161.0,104.0
+Erottaja,1.0,139.0,86.0
+Erottaja,2.0,135.0,42.0
+Erottaja,3.0,145.0,45.0
+Erottaja,4.0,77.0,20.0
+Erottaja,5.0,11.0,98.0
+Erottaja,6.0,26.0,134.0
+Erottaja,7.0,67.0,446.0
+Erottaja,8.0,180.0,1545.0
+Erottaja,9.0,177.0,1056.0
+Erottaja,10.0,252.0,593.0
+Erottaja,11.0,427.0,671.0
+Erottaja,12.0,562.0,793.0
+Erottaja,13.0,627.0,728.0
+Erottaja,14.0,666.0,740.0
+Erottaja,15.0,1018.0,710.0
+Erottaja,16.0,1414.0,957.0
+Erottaja,17.0,1400.0,1013.0
+Erottaja,18.0,1104.0,781.0
+Erottaja,19.0,718.0,631.0
+Erottaja,20.0,689.0,442.0
+Erottaja,21.0,410.0,266.0
+Erottaja,22.0,282.0,181.0
+Erottaja,23.0,274.0,148.0
+Haapaniemenkatu,0.0,175.0,197.0
+Haapaniemenkatu,1.0,140.0,136.0
+Haapaniemenkatu,2.0,136.0,110.0
+Haapaniemenkatu,3.0,121.0,76.0
+Haapaniemenkatu,4.0,66.0,40.0
+Haapaniemenkatu,5.0,37.0,12.0
+Haapaniemenkatu,6.0,38.0,45.0
+Haapaniemenkatu,7.0,254.0,244.0
+Haapaniemenkatu,8.0,548.0,634.0
+Haapaniemenkatu,9.0,312.0,263.0
+Haapaniemenkatu,10.0,288.0,163.0
+Haapaniemenkatu,11.0,287.0,178.0
+Haapaniemenkatu,12.0,313.0,208.0
+Haapaniemenkatu,13.0,299.0,236.0
+Haapaniemenkatu,14.0,380.0,280.0
+Haapaniemenkatu,15.0,439.0,369.0
+Haapaniemenkatu,16.0,562.0,623.0
+Haapaniemenkatu,17.0,486.0,561.0
+Haapaniemenkatu,18.0,372.0,523.0
+Haapaniemenkatu,19.0,320.0,445.0
+Haapaniemenkatu,20.0,242.0,440.0
+Haapaniemenkatu,21.0,225.0,368.0
+Haapaniemenkatu,22.0,200.0,285.0
+Haapaniemenkatu,23.0,130.0,258.0
+Hakaniemen metroasema,0.0,116.0,147.0
+Hakaniemen metroasema,1.0,111.0,115.0
+Hakaniemen metroasema,2.0,56.0,102.0
+Hakaniemen metroasema,3.0,37.0,71.0
+Hakaniemen metroasema,4.0,26.0,60.0
+Hakaniemen metroasema,5.0,103.0,32.0
+Hakaniemen metroasema,6.0,61.0,55.0
+Hakaniemen metroasema,7.0,259.0,289.0
+Hakaniemen metroasema,8.0,591.0,636.0
+Hakaniemen metroasema,9.0,482.0,305.0
+Hakaniemen metroasema,10.0,392.0,244.0
+Hakaniemen metroasema,11.0,523.0,361.0
+Hakaniemen metroasema,12.0,558.0,445.0
+Hakaniemen metroasema,13.0,583.0,530.0
+Hakaniemen metroasema,14.0,620.0,528.0
+Hakaniemen metroasema,15.0,779.0,696.0
+Hakaniemen metroasema,16.0,770.0,934.0
+Hakaniemen metroasema,17.0,785.0,991.0
+Hakaniemen metroasema,18.0,661.0,907.0
+Hakaniemen metroasema,19.0,509.0,724.0
+Hakaniemen metroasema,20.0,414.0,718.0
+Hakaniemen metroasema,21.0,284.0,558.0
+Hakaniemen metroasema,22.0,239.0,302.0
+Hakaniemen metroasema,23.0,154.0,281.0
+Hietalahdentori,0.0,108.0,150.0
+Hietalahdentori,1.0,58.0,100.0
+Hietalahdentori,2.0,42.0,74.0
+Hietalahdentori,3.0,12.0,67.0
+Hietalahdentori,4.0,13.0,55.0
+Hietalahdentori,5.0,46.0,30.0
+Hietalahdentori,6.0,75.0,102.0
+Hietalahdentori,7.0,473.0,395.0
+Hietalahdentori,8.0,838.0,1003.0
+Hietalahdentori,9.0,520.0,902.0
+Hietalahdentori,10.0,515.0,478.0
+Hietalahdentori,11.0,666.0,670.0
+Hietalahdentori,12.0,837.0,885.0
+Hietalahdentori,13.0,916.0,800.0
+Hietalahdentori,14.0,829.0,873.0
+Hietalahdentori,15.0,1020.0,906.0
+Hietalahdentori,16.0,1376.0,1129.0
+Hietalahdentori,17.0,1237.0,1317.0
+Hietalahdentori,18.0,868.0,987.0
+Hietalahdentori,19.0,807.0,832.0
+Hietalahdentori,20.0,624.0,754.0
+Hietalahdentori,21.0,470.0,629.0
+Hietalahdentori,22.0,331.0,352.0
+Hietalahdentori,23.0,175.0,242.0
+Itämerentori,0.0,134.0,211.0
+Itämerentori,1.0,69.0,144.0
+Itämerentori,2.0,19.0,130.0
+Itämerentori,3.0,23.0,60.0
+Itämerentori,4.0,14.0,50.0
+Itämerentori,5.0,11.0,36.0
+Itämerentori,6.0,77.0,269.0
+Itämerentori,7.0,485.0,961.0
+Itämerentori,8.0,1116.0,2273.0
+Itämerentori,9.0,609.0,1364.0
+Itämerentori,10.0,488.0,636.0
+Itämerentori,11.0,759.0,661.0
+Itämerentori,12.0,878.0,797.0
+Itämerentori,13.0,767.0,793.0
+Itämerentori,14.0,859.0,745.0
+Itämerentori,15.0,1617.0,939.0
+Itämerentori,16.0,2271.0,1453.0
+Itämerentori,17.0,1793.0,1373.0
+Itämerentori,18.0,1153.0,980.0
+Itämerentori,19.0,848.0,801.0
+Itämerentori,20.0,694.0,610.0
+Itämerentori,21.0,498.0,459.0
+Itämerentori,22.0,281.0,377.0
+Itämerentori,23.0,200.0,225.0
+Kaisaniemenpuisto,0.0,99.0,45.0
+Kaisaniemenpuisto,1.0,73.0,18.0
+Kaisaniemenpuisto,2.0,39.0,11.0
+Kaisaniemenpuisto,3.0,49.0,12.0
+Kaisaniemenpuisto,4.0,42.0,69.0
+Kaisaniemenpuisto,5.0,22.0,131.0
+Kaisaniemenpuisto,6.0,344.0,108.0
+Kaisaniemenpuisto,7.0,1694.0,568.0
+Kaisaniemenpuisto,8.0,1486.0,694.0
+Kaisaniemenpuisto,9.0,506.0,381.0
+Kaisaniemenpuisto,10.0,217.0,205.0
+Kaisaniemenpuisto,11.0,242.0,232.0
+Kaisaniemenpuisto,12.0,294.0,309.0
+Kaisaniemenpuisto,13.0,311.0,368.0
+Kaisaniemenpuisto,14.0,341.0,513.0
+Kaisaniemenpuisto,15.0,563.0,1241.0
+Kaisaniemenpuisto,16.0,806.0,1321.0
+Kaisaniemenpuisto,17.0,657.0,844.0
+Kaisaniemenpuisto,18.0,519.0,536.0
+Kaisaniemenpuisto,19.0,412.0,407.0
+Kaisaniemenpuisto,20.0,364.0,361.0
+Kaisaniemenpuisto,21.0,255.0,236.0
+Kaisaniemenpuisto,22.0,182.0,156.0
+Kaisaniemenpuisto,23.0,94.0,83.0
+Kaivopuisto,0.0,111.0,124.0
+Kaivopuisto,1.0,39.0,71.0
+Kaivopuisto,2.0,13.0,34.0
+Kaivopuisto,3.0,11.0,20.0
+Kaivopuisto,4.0,3.0,20.0
+Kaivopuisto,5.0,15.0,10.0
+Kaivopuisto,6.0,42.0,35.0
+Kaivopuisto,7.0,94.0,80.0
+Kaivopuisto,8.0,367.0,165.0
+Kaivopuisto,9.0,221.0,204.0
+Kaivopuisto,10.0,226.0,247.0
+Kaivopuisto,11.0,384.0,442.0
+Kaivopuisto,12.0,566.0,684.0
+Kaivopuisto,13.0,737.0,889.0
+Kaivopuisto,14.0,710.0,959.0
+Kaivopuisto,15.0,859.0,1062.0
+Kaivopuisto,16.0,961.0,1270.0
+Kaivopuisto,17.0,928.0,1213.0
+Kaivopuisto,18.0,823.0,1100.0
+Kaivopuisto,19.0,804.0,879.0
+Kaivopuisto,20.0,776.0,749.0
+Kaivopuisto,21.0,615.0,575.0
+Kaivopuisto,22.0,377.0,340.0
+Kaivopuisto,23.0,208.0,188.0
+Kampin metroasema,0.0,213.0,202.0
+Kampin metroasema,1.0,181.0,134.0
+Kampin metroasema,2.0,141.0,121.0
+Kampin metroasema,3.0,142.0,83.0
+Kampin metroasema,4.0,100.0,72.0
+Kampin metroasema,5.0,82.0,73.0
+Kampin metroasema,6.0,121.0,146.0
+Kampin metroasema,7.0,362.0,625.0
+Kampin metroasema,8.0,1249.0,1207.0
+Kampin metroasema,9.0,1040.0,835.0
+Kampin metroasema,10.0,662.0,685.0
+Kampin metroasema,11.0,818.0,751.0
+Kampin metroasema,12.0,929.0,831.0
+Kampin metroasema,13.0,920.0,841.0
+Kampin metroasema,14.0,971.0,809.0
+Kampin metroasema,15.0,1166.0,1041.0
+Kampin metroasema,16.0,1719.0,1378.0
+Kampin metroasema,17.0,1640.0,1557.0
+Kampin metroasema,18.0,1312.0,1219.0
+Kampin metroasema,19.0,1120.0,968.0
+Kampin metroasema,20.0,1041.0,894.0
+Kampin metroasema,21.0,734.0,600.0
+Kampin metroasema,22.0,524.0,347.0
+Kampin metroasema,23.0,360.0,262.0
+Kanavaranta,0.0,164.0,150.0
+Kanavaranta,1.0,124.0,152.0
+Kanavaranta,2.0,65.0,57.0
+Kanavaranta,3.0,41.0,59.0
+Kanavaranta,4.0,49.0,31.0
+Kanavaranta,5.0,68.0,19.0
+Kanavaranta,6.0,56.0,15.0
+Kanavaranta,7.0,67.0,107.0
+Kanavaranta,8.0,289.0,382.0
+Kanavaranta,9.0,206.0,356.0
+Kanavaranta,10.0,234.0,233.0
+Kanavaranta,11.0,307.0,306.0
+Kanavaranta,12.0,320.0,358.0
+Kanavaranta,13.0,371.0,453.0
+Kanavaranta,14.0,365.0,440.0
+Kanavaranta,15.0,485.0,527.0
+Kanavaranta,16.0,575.0,552.0
+Kanavaranta,17.0,632.0,581.0
+Kanavaranta,18.0,485.0,509.0
+Kanavaranta,19.0,429.0,407.0
+Kanavaranta,20.0,431.0,435.0
+Kanavaranta,21.0,375.0,376.0
+Kanavaranta,22.0,244.0,256.0
+Kanavaranta,23.0,227.0,180.0
+Kansallismuseo,0.0,57.0,84.0
+Kansallismuseo,1.0,61.0,92.0
+Kansallismuseo,2.0,29.0,62.0
+Kansallismuseo,3.0,10.0,46.0
+Kansallismuseo,4.0,21.0,37.0
+Kansallismuseo,5.0,10.0,14.0
+Kansallismuseo,6.0,8.0,21.0
+Kansallismuseo,7.0,92.0,99.0
+Kansallismuseo,8.0,286.0,232.0
+Kansallismuseo,9.0,237.0,202.0
+Kansallismuseo,10.0,166.0,104.0
+Kansallismuseo,11.0,236.0,208.0
+Kansallismuseo,12.0,282.0,224.0
+Kansallismuseo,13.0,221.0,217.0
+Kansallismuseo,14.0,223.0,178.0
+Kansallismuseo,15.0,266.0,220.0
+Kansallismuseo,16.0,413.0,264.0
+Kansallismuseo,17.0,340.0,297.0
+Kansallismuseo,18.0,235.0,261.0
+Kansallismuseo,19.0,206.0,206.0
+Kansallismuseo,20.0,203.0,198.0
+Kansallismuseo,21.0,190.0,198.0
+Kansallismuseo,22.0,141.0,147.0
+Kansallismuseo,23.0,68.0,118.0
+Kapteeninpuistikko,0.0,74.0,114.0
+Kapteeninpuistikko,1.0,38.0,80.0
+Kapteeninpuistikko,2.0,36.0,82.0
+Kapteeninpuistikko,3.0,19.0,71.0
+Kapteeninpuistikko,4.0,22.0,29.0
+Kapteeninpuistikko,5.0,74.0,16.0
+Kapteeninpuistikko,6.0,68.0,13.0
+Kapteeninpuistikko,7.0,406.0,61.0
+Kapteeninpuistikko,8.0,909.0,144.0
+Kapteeninpuistikko,9.0,381.0,135.0
+Kapteeninpuistikko,10.0,280.0,118.0
+Kapteeninpuistikko,11.0,279.0,162.0
+Kapteeninpuistikko,12.0,287.0,229.0
+Kapteeninpuistikko,13.0,322.0,267.0
+Kapteeninpuistikko,14.0,288.0,250.0
+Kapteeninpuistikko,15.0,335.0,394.0
+Kapteeninpuistikko,16.0,365.0,628.0
+Kapteeninpuistikko,17.0,435.0,676.0
+Kapteeninpuistikko,18.0,448.0,535.0
+Kapteeninpuistikko,19.0,385.0,504.0
+Kapteeninpuistikko,20.0,316.0,460.0
+Kapteeninpuistikko,21.0,235.0,411.0
+Kapteeninpuistikko,22.0,166.0,234.0
+Kapteeninpuistikko,23.0,119.0,189.0
+Karhupuisto,0.0,62.0,82.0
+Karhupuisto,1.0,67.0,77.0
+Karhupuisto,2.0,65.0,77.0
+Karhupuisto,3.0,17.0,64.0
+Karhupuisto,4.0,19.0,44.0
+Karhupuisto,5.0,9.0,15.0
+Karhupuisto,6.0,137.0,10.0
+Karhupuisto,7.0,329.0,17.0
+Karhupuisto,8.0,526.0,59.0
+Karhupuisto,9.0,278.0,54.0
+Karhupuisto,10.0,194.0,56.0
+Karhupuisto,11.0,227.0,62.0
+Karhupuisto,12.0,238.0,84.0
+Karhupuisto,13.0,238.0,119.0
+Karhupuisto,14.0,266.0,107.0
+Karhupuisto,15.0,239.0,150.0
+Karhupuisto,16.0,317.0,295.0
+Karhupuisto,17.0,358.0,353.0
+Karhupuisto,18.0,333.0,283.0
+Karhupuisto,19.0,260.0,272.0
+Karhupuisto,20.0,212.0,246.0
+Karhupuisto,21.0,152.0,212.0
+Karhupuisto,22.0,131.0,214.0
+Karhupuisto,23.0,84.0,176.0
+Kasarmitori,0.0,62.0,45.0
+Kasarmitori,1.0,37.0,47.0
+Kasarmitori,2.0,41.0,39.0
+Kasarmitori,3.0,39.0,25.0
+Kasarmitori,4.0,15.0,10.0
+Kasarmitori,5.0,6.0,10.0
+Kasarmitori,6.0,41.0,40.0
+Kasarmitori,7.0,333.0,424.0
+Kasarmitori,8.0,308.0,1080.0
+Kasarmitori,9.0,194.0,514.0
+Kasarmitori,10.0,170.0,221.0
+Kasarmitori,11.0,249.0,207.0
+Kasarmitori,12.0,315.0,254.0
+Kasarmitori,13.0,234.0,223.0
+Kasarmitori,14.0,321.0,232.0
+Kasarmitori,15.0,529.0,261.0
+Kasarmitori,16.0,782.0,370.0
+Kasarmitori,17.0,601.0,441.0
+Kasarmitori,18.0,360.0,314.0
+Kasarmitori,19.0,256.0,224.0
+Kasarmitori,20.0,215.0,219.0
+Kasarmitori,21.0,134.0,180.0
+Kasarmitori,22.0,117.0,124.0
+Kasarmitori,23.0,99.0,90.0
+Kauppakorkeakoulu,0.0,143.0,226.0
+Kauppakorkeakoulu,1.0,97.0,169.0
+Kauppakorkeakoulu,2.0,61.0,130.0
+Kauppakorkeakoulu,3.0,64.0,97.0
+Kauppakorkeakoulu,4.0,75.0,64.0
+Kauppakorkeakoulu,5.0,120.0,31.0
+Kauppakorkeakoulu,6.0,290.0,125.0
+Kauppakorkeakoulu,7.0,827.0,198.0
+Kauppakorkeakoulu,8.0,1127.0,572.0
+Kauppakorkeakoulu,9.0,617.0,562.0
+Kauppakorkeakoulu,10.0,493.0,447.0
+Kauppakorkeakoulu,11.0,723.0,547.0
+Kauppakorkeakoulu,12.0,808.0,758.0
+Kauppakorkeakoulu,13.0,687.0,697.0
+Kauppakorkeakoulu,14.0,711.0,637.0
+Kauppakorkeakoulu,15.0,874.0,890.0
+Kauppakorkeakoulu,16.0,1120.0,1277.0
+Kauppakorkeakoulu,17.0,1082.0,1166.0
+Kauppakorkeakoulu,18.0,958.0,893.0
+Kauppakorkeakoulu,19.0,765.0,741.0
+Kauppakorkeakoulu,20.0,662.0,731.0
+Kauppakorkeakoulu,21.0,453.0,635.0
+Kauppakorkeakoulu,22.0,284.0,420.0
+Kauppakorkeakoulu,23.0,214.0,365.0
+Kauppatori,0.0,55.0,52.0
+Kauppatori,1.0,14.0,20.0
+Kauppatori,2.0,23.0,27.0
+Kauppatori,3.0,8.0,7.0
+Kauppatori,4.0,10.0,3.0
+Kauppatori,5.0,7.0,10.0
+Kauppatori,6.0,17.0,124.0
+Kauppatori,7.0,20.0,156.0
+Kauppatori,8.0,96.0,449.0
+Kauppatori,9.0,115.0,277.0
+Kauppatori,10.0,139.0,194.0
+Kauppatori,11.0,242.0,298.0
+Kauppatori,12.0,290.0,305.0
+Kauppatori,13.0,307.0,393.0
+Kauppatori,14.0,398.0,361.0
+Kauppatori,15.0,497.0,425.0
+Kauppatori,16.0,589.0,468.0
+Kauppatori,17.0,567.0,441.0
+Kauppatori,18.0,452.0,384.0
+Kauppatori,19.0,330.0,346.0
+Kauppatori,20.0,377.0,316.0
+Kauppatori,21.0,249.0,202.0
+Kauppatori,22.0,178.0,107.0
+Kauppatori,23.0,120.0,65.0
+Kiasma,0.0,157.0,47.0
+Kiasma,1.0,99.0,27.0
+Kiasma,2.0,71.0,25.0
+Kiasma,3.0,66.0,14.0
+Kiasma,4.0,52.0,18.0
+Kiasma,5.0,13.0,25.0
+Kiasma,6.0,83.0,57.0
+Kiasma,7.0,240.0,258.0
+Kiasma,8.0,504.0,394.0
+Kiasma,9.0,215.0,371.0
+Kiasma,10.0,165.0,257.0
+Kiasma,11.0,287.0,372.0
+Kiasma,12.0,357.0,437.0
+Kiasma,13.0,398.0,473.0
+Kiasma,14.0,445.0,514.0
+Kiasma,15.0,555.0,671.0
+Kiasma,16.0,801.0,960.0
+Kiasma,17.0,767.0,713.0
+Kiasma,18.0,601.0,518.0
+Kiasma,19.0,449.0,362.0
+Kiasma,20.0,394.0,273.0
+Kiasma,21.0,271.0,151.0
+Kiasma,22.0,185.0,90.0
+Kiasma,23.0,187.0,72.0
+Laivasillankatu,0.0,71.0,89.0
+Laivasillankatu,1.0,72.0,59.0
+Laivasillankatu,2.0,49.0,55.0
+Laivasillankatu,3.0,67.0,28.0
+Laivasillankatu,4.0,25.0,18.0
+Laivasillankatu,5.0,70.0,16.0
+Laivasillankatu,6.0,20.0,28.0
+Laivasillankatu,7.0,117.0,266.0
+Laivasillankatu,8.0,443.0,371.0
+Laivasillankatu,9.0,246.0,219.0
+Laivasillankatu,10.0,202.0,156.0
+Laivasillankatu,11.0,232.0,213.0
+Laivasillankatu,12.0,267.0,235.0
+Laivasillankatu,13.0,238.0,228.0
+Laivasillankatu,14.0,280.0,262.0
+Laivasillankatu,15.0,492.0,318.0
+Laivasillankatu,16.0,523.0,382.0
+Laivasillankatu,17.0,349.0,418.0
+Laivasillankatu,18.0,260.0,281.0
+Laivasillankatu,19.0,237.0,260.0
+Laivasillankatu,20.0,204.0,241.0
+Laivasillankatu,21.0,197.0,219.0
+Laivasillankatu,22.0,121.0,160.0
+Laivasillankatu,23.0,87.0,108.0
+Lastenlehto,0.0,75.0,124.0
+Lastenlehto,1.0,43.0,59.0
+Lastenlehto,2.0,21.0,42.0
+Lastenlehto,3.0,23.0,53.0
+Lastenlehto,4.0,55.0,25.0
+Lastenlehto,5.0,62.0,12.0
+Lastenlehto,6.0,146.0,20.0
+Lastenlehto,7.0,327.0,140.0
+Lastenlehto,8.0,802.0,452.0
+Lastenlehto,9.0,421.0,333.0
+Lastenlehto,10.0,232.0,239.0
+Lastenlehto,11.0,289.0,195.0
+Lastenlehto,12.0,316.0,215.0
+Lastenlehto,13.0,307.0,211.0
+Lastenlehto,14.0,298.0,247.0
+Lastenlehto,15.0,359.0,273.0
+Lastenlehto,16.0,635.0,445.0
+Lastenlehto,17.0,564.0,524.0
+Lastenlehto,18.0,442.0,418.0
+Lastenlehto,19.0,329.0,332.0
+Lastenlehto,20.0,272.0,302.0
+Lastenlehto,21.0,229.0,272.0
+Lastenlehto,22.0,175.0,214.0
+Lastenlehto,23.0,121.0,164.0
+Liisanpuistikko,0.0,110.0,155.0
+Liisanpuistikko,1.0,72.0,100.0
+Liisanpuistikko,2.0,62.0,74.0
+Liisanpuistikko,3.0,22.0,50.0
+Liisanpuistikko,4.0,18.0,45.0
+Liisanpuistikko,5.0,18.0,23.0
+Liisanpuistikko,6.0,67.0,22.0
+Liisanpuistikko,7.0,359.0,72.0
+Liisanpuistikko,8.0,692.0,172.0
+Liisanpuistikko,9.0,357.0,246.0
+Liisanpuistikko,10.0,250.0,192.0
+Liisanpuistikko,11.0,304.0,236.0
+Liisanpuistikko,12.0,366.0,274.0
+Liisanpuistikko,13.0,369.0,351.0
+Liisanpuistikko,14.0,322.0,375.0
+Liisanpuistikko,15.0,372.0,503.0
+Liisanpuistikko,16.0,491.0,579.0
+Liisanpuistikko,17.0,518.0,699.0
+Liisanpuistikko,18.0,488.0,615.0
+Liisanpuistikko,19.0,487.0,543.0
+Liisanpuistikko,20.0,364.0,511.0
+Liisanpuistikko,21.0,388.0,444.0
+Liisanpuistikko,22.0,229.0,342.0
+Liisanpuistikko,23.0,165.0,218.0
+Linnanmäki,0.0,79.0,136.0
+Linnanmäki,1.0,47.0,88.0
+Linnanmäki,2.0,43.0,58.0
+Linnanmäki,3.0,15.0,56.0
+Linnanmäki,4.0,26.0,44.0
+Linnanmäki,5.0,10.0,17.0
+Linnanmäki,6.0,139.0,21.0
+Linnanmäki,7.0,166.0,80.0
+Linnanmäki,8.0,419.0,100.0
+Linnanmäki,9.0,303.0,151.0
+Linnanmäki,10.0,203.0,150.0
+Linnanmäki,11.0,232.0,160.0
+Linnanmäki,12.0,298.0,234.0
+Linnanmäki,13.0,281.0,300.0
+Linnanmäki,14.0,391.0,332.0
+Linnanmäki,15.0,433.0,418.0
+Linnanmäki,16.0,495.0,497.0
+Linnanmäki,17.0,568.0,608.0
+Linnanmäki,18.0,442.0,532.0
+Linnanmäki,19.0,460.0,465.0
+Linnanmäki,20.0,410.0,378.0
+Linnanmäki,21.0,300.0,342.0
+Linnanmäki,22.0,183.0,258.0
+Linnanmäki,23.0,129.0,184.0
+Mannerheimintie,0.0,142.0,67.0
+Mannerheimintie,1.0,126.0,59.0
+Mannerheimintie,2.0,150.0,40.0
+Mannerheimintie,3.0,131.0,36.0
+Mannerheimintie,4.0,55.0,13.0
+Mannerheimintie,5.0,13.0,19.0
+Mannerheimintie,6.0,10.0,43.0
+Mannerheimintie,7.0,41.0,191.0
+Mannerheimintie,8.0,142.0,584.0
+Mannerheimintie,9.0,162.0,484.0
+Mannerheimintie,10.0,192.0,300.0
+Mannerheimintie,11.0,285.0,442.0
+Mannerheimintie,12.0,440.0,492.0
+Mannerheimintie,13.0,446.0,510.0
+Mannerheimintie,14.0,492.0,461.0
+Mannerheimintie,15.0,556.0,525.0
+Mannerheimintie,16.0,817.0,709.0
+Mannerheimintie,17.0,817.0,706.0
+Mannerheimintie,18.0,677.0,554.0
+Mannerheimintie,19.0,584.0,485.0
+Mannerheimintie,20.0,520.0,329.0
+Mannerheimintie,21.0,313.0,181.0
+Mannerheimintie,22.0,177.0,119.0
+Mannerheimintie,23.0,194.0,115.0
+Marian Sairaala,0.0,4.0,7.0
+Marian Sairaala,1.0,6.0,11.0
+Marian Sairaala,2.0,7.0,4.0
+Marian Sairaala,3.0,3.0,1.0
+Marian Sairaala,4.0,1.0,3.0
+Marian Sairaala,5.0,1.0,0.0
+Marian Sairaala,6.0,11.0,26.0
+Marian Sairaala,7.0,72.0,13.0
+Marian Sairaala,8.0,129.0,50.0
+Marian Sairaala,9.0,70.0,38.0
+Marian Sairaala,10.0,35.0,25.0
+Marian Sairaala,11.0,69.0,22.0
+Marian Sairaala,12.0,64.0,43.0
+Marian Sairaala,13.0,53.0,40.0
+Marian Sairaala,14.0,41.0,36.0
+Marian Sairaala,15.0,89.0,52.0
+Marian Sairaala,16.0,62.0,84.0
+Marian Sairaala,17.0,73.0,84.0
+Marian Sairaala,18.0,55.0,78.0
+Marian Sairaala,19.0,55.0,63.0
+Marian Sairaala,20.0,25.0,53.0
+Marian Sairaala,21.0,28.0,34.0
+Marian Sairaala,22.0,10.0,37.0
+Marian Sairaala,23.0,27.0,24.0
+Mastokatu,0.0,16.0,68.0
+Mastokatu,1.0,12.0,49.0
+Mastokatu,2.0,10.0,48.0
+Mastokatu,3.0,1.0,32.0
+Mastokatu,4.0,4.0,22.0
+Mastokatu,5.0,8.0,5.0
+Mastokatu,6.0,7.0,13.0
+Mastokatu,7.0,77.0,39.0
+Mastokatu,8.0,265.0,379.0
+Mastokatu,9.0,186.0,213.0
+Mastokatu,10.0,251.0,241.0
+Mastokatu,11.0,198.0,131.0
+Mastokatu,12.0,229.0,146.0
+Mastokatu,13.0,207.0,174.0
+Mastokatu,14.0,158.0,194.0
+Mastokatu,15.0,228.0,246.0
+Mastokatu,16.0,329.0,380.0
+Mastokatu,17.0,318.0,286.0
+Mastokatu,18.0,221.0,244.0
+Mastokatu,19.0,220.0,235.0
+Mastokatu,20.0,311.0,344.0
+Mastokatu,21.0,162.0,201.0
+Mastokatu,22.0,66.0,127.0
+Mastokatu,23.0,32.0,107.0
+Merisotilaantori,0.0,35.0,90.0
+Merisotilaantori,1.0,22.0,55.0
+Merisotilaantori,2.0,4.0,63.0
+Merisotilaantori,3.0,7.0,38.0
+Merisotilaantori,4.0,20.0,42.0
+Merisotilaantori,5.0,9.0,8.0
+Merisotilaantori,6.0,23.0,16.0
+Merisotilaantori,7.0,122.0,63.0
+Merisotilaantori,8.0,394.0,237.0
+Merisotilaantori,9.0,181.0,121.0
+Merisotilaantori,10.0,130.0,70.0
+Merisotilaantori,11.0,160.0,82.0
+Merisotilaantori,12.0,154.0,123.0
+Merisotilaantori,13.0,158.0,138.0
+Merisotilaantori,14.0,209.0,189.0
+Merisotilaantori,15.0,189.0,210.0
+Merisotilaantori,16.0,296.0,254.0
+Merisotilaantori,17.0,247.0,230.0
+Merisotilaantori,18.0,149.0,251.0
+Merisotilaantori,19.0,180.0,232.0
+Merisotilaantori,20.0,134.0,241.0
+Merisotilaantori,21.0,86.0,151.0
+Merisotilaantori,22.0,80.0,136.0
+Merisotilaantori,23.0,53.0,123.0
+Museokatu,0.0,28.0,101.0
+Museokatu,1.0,13.0,78.0
+Museokatu,2.0,15.0,53.0
+Museokatu,3.0,7.0,26.0
+Museokatu,4.0,2.0,28.0
+Museokatu,5.0,7.0,7.0
+Museokatu,6.0,44.0,8.0
+Museokatu,7.0,272.0,77.0
+Museokatu,8.0,706.0,100.0
+Museokatu,9.0,415.0,134.0
+Museokatu,10.0,227.0,105.0
+Museokatu,11.0,252.0,174.0
+Museokatu,12.0,298.0,196.0
+Museokatu,13.0,326.0,237.0
+Museokatu,14.0,278.0,266.0
+Museokatu,15.0,318.0,337.0
+Museokatu,16.0,352.0,521.0
+Museokatu,17.0,426.0,611.0
+Museokatu,18.0,390.0,528.0
+Museokatu,19.0,343.0,425.0
+Museokatu,20.0,255.0,385.0
+Museokatu,21.0,167.0,315.0
+Museokatu,22.0,99.0,203.0
+Museokatu,23.0,46.0,130.0
+Narinkka,0.0,142.0,92.0
+Narinkka,1.0,112.0,61.0
+Narinkka,2.0,99.0,33.0
+Narinkka,3.0,105.0,32.0
+Narinkka,4.0,41.0,51.0
+Narinkka,5.0,32.0,36.0
+Narinkka,6.0,63.0,124.0
+Narinkka,7.0,226.0,363.0
+Narinkka,8.0,438.0,522.0
+Narinkka,9.0,376.0,424.0
+Narinkka,10.0,327.0,353.0
+Narinkka,11.0,415.0,409.0
+Narinkka,12.0,402.0,521.0
+Narinkka,13.0,509.0,496.0
+Narinkka,14.0,559.0,573.0
+Narinkka,15.0,667.0,750.0
+Narinkka,16.0,743.0,994.0
+Narinkka,17.0,945.0,1019.0
+Narinkka,18.0,778.0,781.0
+Narinkka,19.0,713.0,628.0
+Narinkka,20.0,533.0,489.0
+Narinkka,21.0,377.0,319.0
+Narinkka,22.0,254.0,206.0
+Narinkka,23.0,225.0,187.0
+Ooppera,0.0,193.0,302.0
+Ooppera,1.0,92.0,211.0
+Ooppera,2.0,91.0,166.0
+Ooppera,3.0,35.0,138.0
+Ooppera,4.0,24.0,81.0
+Ooppera,5.0,79.0,37.0
+Ooppera,6.0,129.0,147.0
+Ooppera,7.0,480.0,359.0
+Ooppera,8.0,1038.0,456.0
+Ooppera,9.0,618.0,441.0
+Ooppera,10.0,486.0,420.0
+Ooppera,11.0,584.0,528.0
+Ooppera,12.0,761.0,666.0
+Ooppera,13.0,766.0,740.0
+Ooppera,14.0,785.0,891.0
+Ooppera,15.0,933.0,1117.0
+Ooppera,16.0,1071.0,1595.0
+Ooppera,17.0,971.0,1645.0
+Ooppera,18.0,1010.0,1411.0
+Ooppera,19.0,926.0,1134.0
+Ooppera,20.0,1012.0,961.0
+Ooppera,21.0,659.0,759.0
+Ooppera,22.0,421.0,444.0
+Ooppera,23.0,292.0,342.0
+Porthania,0.0,27.0,7.0
+Porthania,1.0,16.0,10.0
+Porthania,2.0,22.0,3.0
+Porthania,3.0,23.0,4.0
+Porthania,4.0,20.0,9.0
+Porthania,5.0,0.0,11.0
+Porthania,6.0,15.0,30.0
+Porthania,7.0,39.0,93.0
+Porthania,8.0,120.0,403.0
+Porthania,9.0,83.0,309.0
+Porthania,10.0,90.0,240.0
+Porthania,11.0,154.0,234.0
+Porthania,12.0,245.0,312.0
+Porthania,13.0,204.0,231.0
+Porthania,14.0,239.0,214.0
+Porthania,15.0,261.0,268.0
+Porthania,16.0,393.0,331.0
+Porthania,17.0,434.0,303.0
+Porthania,18.0,293.0,221.0
+Porthania,19.0,267.0,159.0
+Porthania,20.0,184.0,110.0
+Porthania,21.0,117.0,76.0
+Porthania,22.0,75.0,49.0
+Porthania,23.0,52.0,25.0
+Rautatientori / itä,0.0,412.0,176.0
+Rautatientori / itä,1.0,280.0,124.0
+Rautatientori / itä,2.0,203.0,96.0
+Rautatientori / itä,3.0,158.0,56.0
+Rautatientori / itä,4.0,79.0,49.0
+Rautatientori / itä,5.0,23.0,141.0
+Rautatientori / itä,6.0,154.0,218.0
+Rautatientori / itä,7.0,445.0,619.0
+Rautatientori / itä,8.0,1072.0,865.0
+Rautatientori / itä,9.0,631.0,812.0
+Rautatientori / itä,10.0,332.0,578.0
+Rautatientori / itä,11.0,452.0,620.0
+Rautatientori / itä,12.0,515.0,719.0
+Rautatientori / itä,13.0,573.0,712.0
+Rautatientori / itä,14.0,588.0,769.0
+Rautatientori / itä,15.0,761.0,1123.0
+Rautatientori / itä,16.0,1077.0,1441.0
+Rautatientori / itä,17.0,1254.0,1277.0
+Rautatientori / itä,18.0,979.0,984.0
+Rautatientori / itä,19.0,893.0,731.0
+Rautatientori / itä,20.0,777.0,678.0
+Rautatientori / itä,21.0,512.0,388.0
+Rautatientori / itä,22.0,427.0,293.0
+Rautatientori / itä,23.0,416.0,249.0
+Rautatientori / länsi,0.0,284.0,220.0
+Rautatientori / länsi,1.0,244.0,147.0
+Rautatientori / länsi,2.0,181.0,97.0
+Rautatientori / länsi,3.0,146.0,59.0
+Rautatientori / länsi,4.0,86.0,95.0
+Rautatientori / länsi,5.0,41.0,199.0
+Rautatientori / länsi,6.0,147.0,214.0
+Rautatientori / länsi,7.0,508.0,467.0
+Rautatientori / länsi,8.0,959.0,839.0
+Rautatientori / länsi,9.0,530.0,599.0
+Rautatientori / länsi,10.0,408.0,520.0
+Rautatientori / länsi,11.0,474.0,650.0
+Rautatientori / länsi,12.0,525.0,673.0
+Rautatientori / länsi,13.0,584.0,738.0
+Rautatientori / länsi,14.0,667.0,901.0
+Rautatientori / länsi,15.0,754.0,1176.0
+Rautatientori / länsi,16.0,1149.0,1486.0
+Rautatientori / länsi,17.0,1173.0,1315.0
+Rautatientori / länsi,18.0,930.0,918.0
+Rautatientori / länsi,19.0,862.0,645.0
+Rautatientori / länsi,20.0,673.0,467.0
+Rautatientori / länsi,21.0,566.0,371.0
+Rautatientori / länsi,22.0,397.0,307.0
+Rautatientori / länsi,23.0,379.0,248.0
+Ritarikatu,0.0,21.0,83.0
+Ritarikatu,1.0,22.0,57.0
+Ritarikatu,2.0,15.0,57.0
+Ritarikatu,3.0,23.0,42.0
+Ritarikatu,4.0,14.0,26.0
+Ritarikatu,5.0,22.0,8.0
+Ritarikatu,6.0,75.0,69.0
+Ritarikatu,7.0,237.0,146.0
+Ritarikatu,8.0,533.0,404.0
+Ritarikatu,9.0,434.0,309.0
+Ritarikatu,10.0,269.0,165.0
+Ritarikatu,11.0,323.0,176.0
+Ritarikatu,12.0,340.0,241.0
+Ritarikatu,13.0,292.0,233.0
+Ritarikatu,14.0,267.0,267.0
+Ritarikatu,15.0,414.0,285.0
+Ritarikatu,16.0,446.0,420.0
+Ritarikatu,17.0,403.0,498.0
+Ritarikatu,18.0,313.0,387.0
+Ritarikatu,19.0,300.0,307.0
+Ritarikatu,20.0,194.0,303.0
+Ritarikatu,21.0,146.0,256.0
+Ritarikatu,22.0,85.0,201.0
+Ritarikatu,23.0,67.0,142.0
+Senaatintori,0.0,100.0,79.0
+Senaatintori,1.0,77.0,31.0
+Senaatintori,2.0,57.0,18.0
+Senaatintori,3.0,72.0,21.0
+Senaatintori,4.0,50.0,10.0
+Senaatintori,5.0,12.0,10.0
+Senaatintori,6.0,14.0,79.0
+Senaatintori,7.0,69.0,221.0
+Senaatintori,8.0,110.0,647.0
+Senaatintori,9.0,144.0,694.0
+Senaatintori,10.0,171.0,362.0
+Senaatintori,11.0,275.0,363.0
+Senaatintori,12.0,332.0,552.0
+Senaatintori,13.0,435.0,489.0
+Senaatintori,14.0,488.0,465.0
+Senaatintori,15.0,587.0,407.0
+Senaatintori,16.0,736.0,432.0
+Senaatintori,17.0,731.0,465.0
+Senaatintori,18.0,533.0,356.0
+Senaatintori,19.0,437.0,305.0
+Senaatintori,20.0,356.0,227.0
+Senaatintori,21.0,278.0,166.0
+Senaatintori,22.0,198.0,127.0
+Senaatintori,23.0,149.0,77.0
+Sepänkatu,0.0,123.0,157.0
+Sepänkatu,1.0,110.0,151.0
+Sepänkatu,2.0,32.0,92.0
+Sepänkatu,3.0,18.0,54.0
+Sepänkatu,4.0,19.0,58.0
+Sepänkatu,5.0,89.0,50.0
+Sepänkatu,6.0,278.0,165.0
+Sepänkatu,7.0,486.0,438.0
+Sepänkatu,8.0,1219.0,1110.0
+Sepänkatu,9.0,864.0,1098.0
+Sepänkatu,10.0,490.0,472.0
+Sepänkatu,11.0,683.0,402.0
+Sepänkatu,12.0,601.0,548.0
+Sepänkatu,13.0,638.0,602.0
+Sepänkatu,14.0,591.0,616.0
+Sepänkatu,15.0,969.0,770.0
+Sepänkatu,16.0,1416.0,1148.0
+Sepänkatu,17.0,1397.0,1259.0
+Sepänkatu,18.0,862.0,954.0
+Sepänkatu,19.0,615.0,897.0
+Sepänkatu,20.0,526.0,864.0
+Sepänkatu,21.0,362.0,619.0
+Sepänkatu,22.0,297.0,442.0
+Sepänkatu,23.0,172.0,349.0
+Sörnäisten metroasema,0.0,356.0,385.0
+Sörnäisten metroasema,1.0,256.0,210.0
+Sörnäisten metroasema,2.0,127.0,137.0
+Sörnäisten metroasema,3.0,100.0,129.0
+Sörnäisten metroasema,4.0,135.0,133.0
+Sörnäisten metroasema,5.0,64.0,45.0
+Sörnäisten metroasema,6.0,113.0,125.0
+Sörnäisten metroasema,7.0,476.0,251.0
+Sörnäisten metroasema,8.0,875.0,445.0
+Sörnäisten metroasema,9.0,690.0,302.0
+Sörnäisten metroasema,10.0,454.0,263.0
+Sörnäisten metroasema,11.0,546.0,272.0
+Sörnäisten metroasema,12.0,603.0,415.0
+Sörnäisten metroasema,13.0,664.0,460.0
+Sörnäisten metroasema,14.0,749.0,553.0
+Sörnäisten metroasema,15.0,786.0,652.0
+Sörnäisten metroasema,16.0,965.0,989.0
+Sörnäisten metroasema,17.0,1104.0,1205.0
+Sörnäisten metroasema,18.0,948.0,1193.0
+Sörnäisten metroasema,19.0,842.0,912.0
+Sörnäisten metroasema,20.0,710.0,938.0
+Sörnäisten metroasema,21.0,621.0,737.0
+Sörnäisten metroasema,22.0,433.0,462.0
+Sörnäisten metroasema,23.0,413.0,380.0
+Töölönkatu,0.0,46.0,124.0
+Töölönkatu,1.0,30.0,91.0
+Töölönkatu,2.0,15.0,59.0
+Töölönkatu,3.0,4.0,53.0
+Töölönkatu,4.0,10.0,41.0
+Töölönkatu,5.0,61.0,16.0
+Töölönkatu,6.0,99.0,45.0
+Töölönkatu,7.0,364.0,172.0
+Töölönkatu,8.0,711.0,438.0
+Töölönkatu,9.0,556.0,430.0
+Töölönkatu,10.0,342.0,204.0
+Töölönkatu,11.0,472.0,224.0
+Töölönkatu,12.0,436.0,284.0
+Töölönkatu,13.0,407.0,383.0
+Töölönkatu,14.0,437.0,379.0
+Töölönkatu,15.0,503.0,455.0
+Töölönkatu,16.0,606.0,822.0
+Töölönkatu,17.0,736.0,819.0
+Töölönkatu,18.0,568.0,756.0
+Töölönkatu,19.0,435.0,636.0
+Töölönkatu,20.0,310.0,545.0
+Töölönkatu,21.0,224.0,436.0
+Töölönkatu,22.0,143.0,291.0
+Töölönkatu,23.0,77.0,181.0
+Töölönlahdenkatu,0.0,101.0,67.0
+Töölönlahdenkatu,1.0,83.0,34.0
+Töölönlahdenkatu,2.0,44.0,16.0
+Töölönlahdenkatu,3.0,35.0,11.0
+Töölönlahdenkatu,4.0,32.0,33.0
+Töölönlahdenkatu,5.0,21.0,140.0
+Töölönlahdenkatu,6.0,568.0,411.0
+Töölönlahdenkatu,7.0,1591.0,1065.0
+Töölönlahdenkatu,8.0,2275.0,1895.0
+Töölönlahdenkatu,9.0,1139.0,1104.0
+Töölönlahdenkatu,10.0,451.0,489.0
+Töölönlahdenkatu,11.0,479.0,558.0
+Töölönlahdenkatu,12.0,516.0,701.0
+Töölönlahdenkatu,13.0,573.0,655.0
+Töölönlahdenkatu,14.0,573.0,859.0
+Töölönlahdenkatu,15.0,1125.0,1928.0
+Töölönlahdenkatu,16.0,1840.0,2232.0
+Töölönlahdenkatu,17.0,1622.0,1649.0
+Töölönlahdenkatu,18.0,1076.0,1078.0
+Töölönlahdenkatu,19.0,871.0,797.0
+Töölönlahdenkatu,20.0,698.0,477.0
+Töölönlahdenkatu,21.0,555.0,373.0
+Töölönlahdenkatu,22.0,319.0,209.0
+Töölönlahdenkatu,23.0,161.0,97.0
+Töölöntori,0.0,35.0,103.0
+Töölöntori,1.0,15.0,123.0
+Töölöntori,2.0,11.0,84.0
+Töölöntori,3.0,7.0,55.0
+Töölöntori,4.0,7.0,45.0
+Töölöntori,5.0,16.0,15.0
+Töölöntori,6.0,49.0,18.0
+Töölöntori,7.0,250.0,106.0
+Töölöntori,8.0,615.0,214.0
+Töölöntori,9.0,398.0,193.0
+Töölöntori,10.0,272.0,175.0
+Töölöntori,11.0,380.0,184.0
+Töölöntori,12.0,357.0,195.0
+Töölöntori,13.0,336.0,238.0
+Töölöntori,14.0,269.0,215.0
+Töölöntori,15.0,375.0,327.0
+Töölöntori,16.0,380.0,470.0
+Töölöntori,17.0,409.0,643.0
+Töölöntori,18.0,355.0,567.0
+Töölöntori,19.0,348.0,474.0
+Töölöntori,20.0,319.0,390.0
+Töölöntori,21.0,229.0,317.0
+Töölöntori,22.0,109.0,209.0
+Töölöntori,23.0,66.0,164.0
+Unioninkatu,0.0,116.0,63.0
+Unioninkatu,1.0,90.0,55.0
+Unioninkatu,2.0,62.0,26.0
+Unioninkatu,3.0,71.0,19.0
+Unioninkatu,4.0,42.0,19.0
+Unioninkatu,5.0,7.0,9.0
+Unioninkatu,6.0,19.0,128.0
+Unioninkatu,7.0,93.0,580.0
+Unioninkatu,8.0,217.0,1548.0
+Unioninkatu,9.0,240.0,1025.0
+Unioninkatu,10.0,341.0,626.0
+Unioninkatu,11.0,561.0,850.0
+Unioninkatu,12.0,679.0,918.0
+Unioninkatu,13.0,789.0,992.0
+Unioninkatu,14.0,872.0,942.0
+Unioninkatu,15.0,1143.0,896.0
+Unioninkatu,16.0,1557.0,1118.0
+Unioninkatu,17.0,1289.0,863.0
+Unioninkatu,18.0,744.0,688.0
+Unioninkatu,19.0,677.0,586.0
+Unioninkatu,20.0,602.0,429.0
+Unioninkatu,21.0,443.0,324.0
+Unioninkatu,22.0,269.0,173.0
+Unioninkatu,23.0,210.0,111.0
+Vanha kirkkopuisto,0.0,185.0,141.0
+Vanha kirkkopuisto,1.0,130.0,117.0
+Vanha kirkkopuisto,2.0,99.0,70.0
+Vanha kirkkopuisto,3.0,116.0,51.0
+Vanha kirkkopuisto,4.0,64.0,39.0
+Vanha kirkkopuisto,5.0,38.0,26.0
+Vanha kirkkopuisto,6.0,70.0,154.0
+Vanha kirkkopuisto,7.0,237.0,332.0
+Vanha kirkkopuisto,8.0,542.0,1186.0
+Vanha kirkkopuisto,9.0,366.0,676.0
+Vanha kirkkopuisto,10.0,317.0,319.0
+Vanha kirkkopuisto,11.0,419.0,476.0
+Vanha kirkkopuisto,12.0,522.0,564.0
+Vanha kirkkopuisto,13.0,523.0,489.0
+Vanha kirkkopuisto,14.0,459.0,434.0
+Vanha kirkkopuisto,15.0,611.0,475.0
+Vanha kirkkopuisto,16.0,1124.0,683.0
+Vanha kirkkopuisto,17.0,994.0,791.0
+Vanha kirkkopuisto,18.0,672.0,585.0
+Vanha kirkkopuisto,19.0,492.0,477.0
+Vanha kirkkopuisto,20.0,409.0,471.0
+Vanha kirkkopuisto,21.0,360.0,387.0
+Vanha kirkkopuisto,22.0,294.0,285.0
+Vanha kirkkopuisto,23.0,230.0,203.0
+Varsapuistikko,0.0,160.0,180.0
+Varsapuistikko,1.0,112.0,89.0
+Varsapuistikko,2.0,72.0,85.0
+Varsapuistikko,3.0,61.0,34.0
+Varsapuistikko,4.0,52.0,30.0
+Varsapuistikko,5.0,47.0,12.0
+Varsapuistikko,6.0,46.0,21.0
+Varsapuistikko,7.0,208.0,182.0
+Varsapuistikko,8.0,449.0,514.0
+Varsapuistikko,9.0,459.0,579.0
+Varsapuistikko,10.0,306.0,424.0
+Varsapuistikko,11.0,317.0,357.0
+Varsapuistikko,12.0,390.0,422.0
+Varsapuistikko,13.0,444.0,422.0
+Varsapuistikko,14.0,425.0,347.0
+Varsapuistikko,15.0,584.0,428.0
+Varsapuistikko,16.0,764.0,575.0
+Varsapuistikko,17.0,706.0,504.0
+Varsapuistikko,18.0,565.0,443.0
+Varsapuistikko,19.0,466.0,316.0
+Varsapuistikko,20.0,399.0,295.0
+Varsapuistikko,21.0,294.0,243.0
+Varsapuistikko,22.0,210.0,205.0
+Varsapuistikko,23.0,140.0,150.0
+Viiskulma,0.0,163.0,192.0
+Viiskulma,1.0,120.0,159.0
+Viiskulma,2.0,69.0,101.0
+Viiskulma,3.0,61.0,79.0
+Viiskulma,4.0,36.0,61.0
+Viiskulma,5.0,67.0,32.0
+Viiskulma,6.0,142.0,130.0
+Viiskulma,7.0,525.0,113.0
+Viiskulma,8.0,1037.0,300.0
+Viiskulma,9.0,574.0,356.0
+Viiskulma,10.0,383.0,271.0
+Viiskulma,11.0,452.0,373.0
+Viiskulma,12.0,550.0,452.0
+Viiskulma,13.0,507.0,431.0
+Viiskulma,14.0,505.0,489.0
+Viiskulma,15.0,696.0,597.0
+Viiskulma,16.0,724.0,911.0
+Viiskulma,17.0,806.0,984.0
+Viiskulma,18.0,708.0,759.0
+Viiskulma,19.0,654.0,653.0
+Viiskulma,20.0,569.0,638.0
+Viiskulma,21.0,343.0,589.0
+Viiskulma,22.0,293.0,388.0
+Viiskulma,23.0,213.0,279.0
+Workshop Helsinki,6.0,0.0,1.0
+Workshop Helsinki,7.0,0.0,2.0
+Workshop Helsinki,8.0,0.0,5.0
+Workshop Helsinki,9.0,0.0,8.0
+Workshop Helsinki,10.0,0.0,2.0
+Workshop Helsinki,12.0,0.0,2.0
+Workshop Helsinki,13.0,0.0,7.0
+Workshop Helsinki,14.0,6.0,10.0
+Workshop Helsinki,15.0,2.0,4.0
+Workshop Helsinki,16.0,8.0,8.0
+Workshop Helsinki,17.0,2.0,4.0
+Ympyrätalo,0.0,190.0,195.0
+Ympyrätalo,1.0,103.0,127.0
+Ympyrätalo,2.0,83.0,108.0
+Ympyrätalo,3.0,46.0,109.0
+Ympyrätalo,4.0,42.0,83.0
+Ympyrätalo,5.0,38.0,33.0
+Ympyrätalo,6.0,164.0,169.0
+Ympyrätalo,7.0,381.0,301.0
+Ympyrätalo,8.0,890.0,459.0
+Ympyrätalo,9.0,812.0,377.0
+Ympyrätalo,10.0,482.0,302.0
+Ympyrätalo,11.0,502.0,449.0
+Ympyrätalo,12.0,672.0,524.0
+Ympyrätalo,13.0,720.0,690.0
+Ympyrätalo,14.0,770.0,619.0
+Ympyrätalo,15.0,943.0,875.0
+Ympyrätalo,16.0,886.0,1308.0
+Ympyrätalo,17.0,773.0,1413.0
+Ympyrätalo,18.0,743.0,1222.0
+Ympyrätalo,19.0,613.0,914.0
+Ympyrätalo,20.0,500.0,861.0
+Ympyrätalo,21.0,391.0,609.0
+Ympyrätalo,22.0,303.0,421.0
+Ympyrätalo,23.0,229.0,284.0
