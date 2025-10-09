@@ -1,0 +1,59 @@
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js" integrity="sha384-w1Q4orYjBQndcko6MimVbzY0tgp4pWB4lZ7lr30WKz0vr/aWKhXdBNmNb5D92v7s" crossorigin="anonymous"></script>
+<link href="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+<script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+<title>Predict</title>
+<p>
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="/">City bike availability</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+              <li class="nav-item active">
+                <a class="nav-link" href="/">Predict <span class="sr-only">(current)</span></a>
+              </li>
+            </ul>
+        </div>
+    </nav>
+    <div class="container bg-sky p-4 rounded">
+      <div class="row">
+        <div class="col-12">
+          <h2>Predict availability</h2>
+        </div>
+    </div>
+    <style>
+        .bg-sky{background-color: #87CEFA;}
+        .uniform-field, .select2-container--default, .select2-section--single{width: 250px; height: 45px; font-size: 16px;}
+        .select2-container--default, .select2-section--single{height: 45px; line-height: 45px;}
+    </style>
+    <div class="d-flex align-items-center"style="display: flex; gap: 20px; align-items: center;">   
+        <select id="select_station"class="form-controll uniform-field" name="station">
+            {% for station in stations %}
+                <option value="{{ station.name }}">{{ station.name }}</option>
+            {% endfor %}
+        </select>
+
+        <form class="d-flex align-items-center"  action = "/create_prediction" method = "POST">
+            <input class="form-control uniform-field" type="datetime-local" id="datetime" name = "date_time" required style="margin-right: 20px;">
+              {%if error %}
+              <p style="color: red;">{{ message }}</p>
+              {% endif %}
+            <button type = "submit" class="btn btn-lg btn-light"> Create prediction </button>
+        </form>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function() {
+        $('#select_station').select2({
+            placeholder: "Select station",
+            width: '250px'
+        });
+    });
+</script>
