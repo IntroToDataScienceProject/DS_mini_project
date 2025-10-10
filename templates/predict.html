@@ -18,6 +18,9 @@
               <li class="nav-item active">
                 <a class="nav-link" href="/">Predict <span class="sr-only">(current)</span></a>
               </li>
+              <li class="nav-item active">
+                <a class="nav-link" href="/trends">Trends <span class="sr-only"></span></a>
+              </li>
             </ul>
         </div>
     </nav>
@@ -31,11 +34,12 @@
         .bg-sky{background-color: #87CEFA;}
         .uniform-field, .select2-container--default, .select2-section--single{width: 250px; height: 45px; font-size: 16px;}
         .select2-container--default, .select2-section--single{height: 45px; line-height: 45px;}
+        .image_s{width:400px; height: auto;}
     </style>
     <div class="d-flex align-items-center"style="display: flex; gap: 20px; align-items: center;">   
         <select id="select_station"class="form-controll uniform-field" name="station">
             {% for station in stations %}
-                <option value="{{ station.name }}">{{ station.name }}</option>
+                <option value="{{ station.Nimi }}">{{ station.Nimi }}</option>
             {% endfor %}
         </select>
 
@@ -46,6 +50,17 @@
               {% endif %}
             <button type = "submit" class="btn btn-lg btn-light"> Create prediction </button>
         </form>
+      </div>
+      <div>
+        <div class="card mb-3">
+          <div class="card-body">
+            <h5 class="card-title">Card title</h5>
+            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+          </div>
+          <img src="/static/bike-rack.jpg" class="card-img-top image_s" alt="...">
+        </div>
+      </div>
     </div>
 </div>
 
