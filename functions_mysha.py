@@ -12,17 +12,13 @@ def create_station_df(csv_path: str) -> pd.DataFrame:
     return df
 
 # Function 2: Predict availability
-def predict_availability(model_path: str, capacity_csv: str, station_id: int,
+def predict_availability(model_path: str, capacity: int, station_id: int,
                          hour_of_day: int, day_of_week: int, month: int, is_weekend: int):
     # Loading model
-    model = joblib.load(model_path)
-    
-    # Loading capacity info
-    cap_df = pd.read_csv(capacity_csv)
-    row = cap_df[cap_df["ID"] == station_id]
-    if row.empty:
-        raise ValueError(f"Station ID {station_id} not found in capacity CSV.")
-    capacity = int(row["Kapasiteet"].values[0])
+    data = joblib.load(model_path)
+    model = data['model']
+    preprocessor = data['preprocessor']
+
     
     # Preparing input for model
     X_input = pd.DataFrame([{
@@ -30,12 +26,21 @@ def predict_availability(model_path: str, capacity_csv: str, station_id: int,
         "day_of_week": day_of_week,
         "month": month,
         "is_weekend": is_weekend,
-        "station_id": station_id
+        "station_id": station_id,
+        "capacity": capacity,
+        "departures": 5, 
+        "arrivals": 3,
+        "prev_available": 21,
+        "prev_departures": 2,
+        "prev_arrivals": 13
+
     }])
+
+    X_processed = preprocessor.transform(X_input)
     
     # Predicting number of available bikes
-    num_available = model.predict(X_input)[0]
-    num_available = max(0, min(num_available, capacity))  
+    num_available = model.predict(X_processed)[0]
+    num_available = max(0, min(num_available, capacity))
 
     return {
         "available": int(num_available),

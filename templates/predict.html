@@ -37,29 +37,33 @@
         .image_s{width:400px; height: auto;}
     </style>
     <div class="d-flex align-items-center"style="display: flex; gap: 20px; align-items: center;">   
-        <select id="select_station"class="form-controll uniform-field" name="station">
+        <form class="d-flex align-items-center"  style="gap: 20px;" action = "/create_prediction" method = "POST">
+          <select id="select_station"class="form-controll uniform-field me-3" name="station_name" required>
             {% for station in stations %}
-                <option value="{{ station.Nimi }}">{{ station.Nimi }}</option>
+                <option value="{{ station.Nimi }}" data-id="{{ station.ID }}" data-capacity="{{ station.Kapasiteet }}">{{ station.Nimi }}</option>
             {% endfor %}
-        </select>
+          </select>
 
-        <form class="d-flex align-items-center"  action = "/create_prediction" method = "POST">
-            <input class="form-control uniform-field" type="datetime-local" id="datetime" name = "date_time" required style="margin-right: 20px;">
-              {%if error %}
-              <p style="color: red;">{{ message }}</p>
-              {% endif %}
-            <button type = "submit" class="btn btn-lg btn-light"> Create prediction </button>
+          <input class="form-control uniform-field" type="datetime-local" id="datetime" name = "date_time" required style="margin-right: 20px;">
+            {%if error %}
+            <p style="color: red;">{{ message }}</p>
+            {% endif %}
+          <input type="hidden" id="station_id" name="station_id">
+          <input type="hidden" id="station_capacity" name="station_capacity">
+          <button type = "submit" class="btn btn-lg btn-light"> Create prediction </button>
         </form>
       </div>
       <div>
+        {%if prediction %}
         <div class="card mb-3">
           <div class="card-body">
-            <h5 class="card-title">Card title</h5>
-            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+            <h5 class="card-title">Bike availability at the satation {{ station_name }} </h5>
+            <p class="card-text">{{ prediction.available }}/{{ prediction.capacity }} bikes available</p>
+            <p class="card-text"><small class="text-muted"></small></p>
           </div>
           <img src="/static/bike-rack.jpg" class="card-img-top image_s" alt="...">
         </div>
+        {% endif %}
       </div>
     </div>
 </div>
@@ -69,6 +73,12 @@
         $('#select_station').select2({
             placeholder: "Select station",
             width: '250px'
+        });
+
+        $('#select_station').on('change', function() {
+          const selected = $(this).find(':selected');
+          $('#station_id').val(selected.data('id'));
+          $('#station_capacity').val(selected.data('capacity'));
         });
     });
 </script>
