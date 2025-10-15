@@ -49,18 +49,17 @@ def predict_availability(model_path: str, capacity: int, station_id: int,
     }
 
 # Function 3: Pie chart
-def plot_pie_chart(model_path: str, capacity_csv: str, station_id: int,
-                   hour_of_day: int, day_of_week: int, month: int, is_weekend: int):
-    pred = predict_availability(model_path, capacity_csv, station_id,
-                                hour_of_day, day_of_week, month, is_weekend)
+def plot_pie_chart(available, empty, capacity, station_name):
+
     labels = ['Available', 'Empty']
-    sizes = [pred['available'], pred['empty']]
+    sizes = [available, empty]
     colors = ['#66b3ff', '#ff9999']  #(i avoided dark red & green)
     
     plt.figure(figsize = (4, 4))
     plt.pie(sizes, labels = labels, autopct = '%1.1f%%', colors = colors, startangle = 90)
-    plt.title(f"Station {station_id} — Capacity {pred['capacity']}")
-    plt.show()
+
+    plt.savefig('static/pie_chart.png', bbox_inches='tight')
+    plt.close()
 
 # Function 4: Nearby stations
 def fetch_nearby_stations(station_name: str, capacity_csv: str):

@@ -32,6 +32,8 @@ def create_prediction():
 
         prediction = functions_mysha.predict_availability(model_path=path, capacity=station_capacity, station_id=station_id, hour_of_day=hour, day_of_week=weekday, month=month, is_weekend=weekend)
 
+        functions_mysha.plot_pie_chart(available=prediction['available'], empty=prediction['empty'], capacity=station_capacity, station_name=station_name)
+
         stations_list = functions.stations_dict('Data/station_data.csv')
 
         return render_template("predict.html", stations=stations_list, prediction=prediction, station_name=station_name)
