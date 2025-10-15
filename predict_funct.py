@@ -61,11 +61,9 @@ def build_features_for_prediction(station_name: str, future_datetime: datetime):
     return df_ready
 
 
+def predict(station_name: str, future_datetime: datetime):
 
-def main():
-    #example how to use -- the date time input should come from the user --> datetime(year, month, day, hour)
-    features = build_features_for_prediction("Töölönlahdenkatu", datetime(2025, 10, 3, 12))
-    # print(features) #gives input for the model
+    features = build_features_for_prediction(station_name, future_datetime)
 
     MODEL_PATH = "/home/rishika/Intro_to_DS/MiniProject/SGDmodel_stable_full_tuned.pkl" #"/home/rishika/Intro_to_DS/MiniProject/DS_mini_project/SGDmodel_stable_full_tuned.pkl"
 
@@ -76,7 +74,14 @@ def main():
     predictions = model.predict(X_transformed)
 
     predictions = np.clip(predictions, 0, features['capacity'].to_numpy())
-    print("Predicted available bikes:", predictions)
     return predictions
+
+def main():
+    #example how to use -- the date time input should come from the user --> datetime(year, month, day, hour)
+    features = build_features_for_prediction("Töölönlahdenkatu", datetime(2025, 10, 3, 12))
+    print(features) #gives input for the model
+
+    predictions = predict("Töölönlahdenkatu", datetime(2025, 10, 3, 12))
+    print("Predicted available bikes:", predictions)
 
 main()
