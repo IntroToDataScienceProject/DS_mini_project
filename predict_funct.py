@@ -7,9 +7,9 @@ from datetime import datetime
 
 def build_features_for_prediction(station_name: str, future_datetime: datetime):
     # Load precomputed data
-    avg_flow = joblib.load("/home/rishika/Intro_to_DS/MiniProject/DS_mini_project/avg_flow.pkl")
-    recent_state = joblib.load("/home/rishika/Intro_to_DS/MiniProject/DS_mini_project/recent_state.pkl")
-    station_map = joblib.load("/home/rishika/Intro_to_DS/MiniProject/DS_mini_project/station_map.pkl")
+    avg_flow = joblib.load("Data/avg_flow.pkl")
+    recent_state = joblib.load("Data/recent_state.pkl")
+    station_map = joblib.load("Data/station_map.pkl")
 
     # Get station details
     row_station = station_map[station_map["name"].str.lower() == station_name.lower()]
@@ -65,7 +65,7 @@ def predict(station_name: str, future_datetime: datetime):
 
     features = build_features_for_prediction(station_name, future_datetime)
 
-    MODEL_PATH = "/home/rishika/Intro_to_DS/MiniProject/SGDmodel_stable_full_tuned.pkl" #"/home/rishika/Intro_to_DS/MiniProject/DS_mini_project/SGDmodel_stable_full_tuned.pkl"
+    MODEL_PATH = "Data/SGDmodel_stable_full_tuned.pkl"
 
     bundle = joblib.load(MODEL_PATH)
     model = bundle['model']

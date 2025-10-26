@@ -60,8 +60,13 @@
           <div class="row g-0">
             <div class="col-md-6">
               <div class="card-body">
-                <h5 class="card-title">Bike availability at the satation {{ station_name }}</h5>
+                <h5 class="card-title">Bike availability at the satation {{ station_name }} on {{ date }} at {{ time }}</h5>
                 <p class="card-text">{{ prediction.available }}/{{ prediction.capacity }} bikes available</p>
+                <hr>
+                <h6 class="card-subtitle mb-2 text-muted"> Nearby stations: </h6>
+                {% for nearby_station in nearby %}
+                  <p class="text-muted">{{ nearby_station[0] }}  Distance: {{ nearby_station[1] }} m <button type="button" class="btn btn-sm btn-light select-nearby" data-name="{{ nearby_station[0] }}">Select</button></p>
+                {% endfor %}
               </div>
             </div>
             <div class="col-md-4">
@@ -86,5 +91,14 @@
           $('#station_id').val(selected.data('id'));
           $('#station_capacity').val(selected.data('capacity'));
         });
+
+        $('.select-nearby').on('click', function() {
+          const stationName = $(this).data('name');
+          const select = $('#select_station');
+
+          select.val(select.find('option').filter(function(){
+            return $(this).val() === stationName;
+          }).val()).trigger('change');
     });
+  });
 </script>
