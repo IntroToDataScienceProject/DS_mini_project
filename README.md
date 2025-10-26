@@ -17,7 +17,7 @@ $ source venv/bin/activate
 (venv) $ pip install -r requirements.txt
 ```
 
-launch the application with the command
+Start the application with the command
 ```
 (venv) $ flask run
 ```
