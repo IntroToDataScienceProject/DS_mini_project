@@ -20,4 +20,4 @@ $ source venv/bin/activate
 launch the application with the command
 ```
 (venv) $ flask run
-``
+```
