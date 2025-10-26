@@ -1,5 +1,5 @@
 # DS_mini_project
-This repository contains the source code of a mini-project done during the Introduction to Data Science course at the University of Helsinki. The application is a machine learning-based web-app that allows the user to create predictions of the availability of city bikes at a selected station on a specific day and time.
+This repository contains the source code of a mini-project done during the Introduction to Data Science course at the University of Helsinki. The application is a machine learning-based web-app that allows the user to create predictions of the availability of city bikes at a selected station on a specific day and time. The application uses HSL's (Helsinki Region Transport) open city bike data from 2016-2019.
 
 ## City bike availability prediction web-app
 
